@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="test1">
+        <item>서울시</item>
+
+
+    </string-array>
+
+    <string-array name="test2">
+        <item>노원구</item>
+
+    </string-array>
+
+    <string-array name="test3">
+        <item>동</item>
+        <item>공릉동</item>
+        <item>월계동</item>
+        <item>상계동</item>
+        <item>중계동</item>
+        <item>하계동</item>
+
+    </string-array>
+
+    <string-array name="categori">
+
+        <item>별점순</item>
+        <item>리뷰순</item>
+        <item>스터디카페</item>
+        <item>분위기카페</item>
+
+
+    </string-array>
+
+</resources>

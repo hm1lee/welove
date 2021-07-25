@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "282624708593",
+    "firebase_url": "https://welove-7acb5.firebaseio.com",
+    "project_id": "welove-7acb5",
+    "storage_bucket": "welove-7acb5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282624708593:android:3806ead6d76f5136857e50",
+        "android_client_info": {
+          "package_name": "com.example.welove"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282624708593-n2q4tu3p025igvcjnv5m43b4ie9sa80t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.welove",
+            "certificate_hash": "5b1c86f55c8bbb339243360a22f521eaf9d1334e"
+          }
+        },
+        {
+          "client_id": "282624708593-42o7r71s1kl9gi31trm4l1sfumnqrjgq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUZz3EyYVpSzr0ttJ4azpAupj1y9AHOro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "282624708593-42o7r71s1kl9gi31trm4l1sfumnqrjgq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
